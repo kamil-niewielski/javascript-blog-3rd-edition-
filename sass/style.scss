@@ -118,3 +118,27 @@ body {
     margin: 0 10px 0 0;
   }
 }
+.tag-size-5 {
+  font-size: 32px;
+  font-weight: 48px;
+  color: rgb(15, 215, 32);
+}
+
+
+.tag-size-3 {
+  font-size: 24px;
+  font-weight: 32px;
+  color: rgb(117, 117, 7);
+}
+
+
+.tag-size-1 {
+  font-size: 16px;
+  font-weight: 16px;
+  color: rgb(230, 85, 85);
+}
+
+.list.tags li {
+  display: inline-block;
+  padding: 8px;
+}
